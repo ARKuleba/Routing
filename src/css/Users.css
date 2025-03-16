@@ -1,0 +1,17 @@
+.userLink {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 15, 15);
+    font-weight: 400;
+    opacity: 1;
+    transition: .4s linear;
+}
+
+.userLink:hover {
+    opacity: 0.6;
+}
+
+.userName {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+

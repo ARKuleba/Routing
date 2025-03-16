@@ -1,0 +1,30 @@
+.errorBox {
+    margin-top: 15%;
+}
+
+.error {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 15, 15);
+    font-weight: 600;
+    font-size: 48px;
+    margin: 0;
+    text-align: center;
+}
+
+.page {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 15, 15);
+    font-weight: 600;
+    font-size: 64px;
+    margin: 0;
+    text-align: center;
+}
+
+.goToPage {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(87, 86, 86);
+    font-weight: 600;
+    font-size: 36px;
+    margin: 0;
+    text-align: center;
+}

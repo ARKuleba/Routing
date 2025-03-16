@@ -1,0 +1,36 @@
+.albumTitle, .user {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 15, 15);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.linkAlbum {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(53, 52, 52);
+    font-weight: 400;
+    opacity: 1;
+    transition: .4s linear;
+}
+
+.linkAlbum:hover {
+    opacity: 0.6;
+}
+
+.photos {
+    padding-top: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    justify-content: center;
+}
+
+.user {
+    color: rgb(121, 120, 120);
+}
+
+.loading {
+    color: black;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}

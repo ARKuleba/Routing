@@ -1,0 +1,33 @@
+.loading {
+    color: black;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nameUser {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 15, 15);
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.username, .email, .phone, .site {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(97, 96, 96);
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 15, 15);
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 1%;
+}

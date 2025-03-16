@@ -1,0 +1,28 @@
+.albums {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.albumLink {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(16, 15, 15);
+    font-weight: 400;
+    opacity: 1;
+    transition: .4s linear;
+}
+
+.albumLink:hover {
+    opacity: 0.6;
+}
+
+.albumName {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+@media(max-width: 452px) {
+    .albumName {
+        font-size: 22px;
+    }
+}
